@@ -1,0 +1,12 @@
+node_modules/
+build/
+lib
+tests/coverage
+*.scss
+jest.config.js
+.eslintrc.json
+.prettierrc.json
+webpack.config.js
+*.svg
+*.test.tsx
+*.css
