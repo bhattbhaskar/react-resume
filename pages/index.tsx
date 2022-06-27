@@ -8,7 +8,7 @@ const Home: NextPage = () => (
       <title>React Resume</title>
       <meta
         name="description"
-        content="Generated reasune by create next app, react"
+        content="Generated reasume by create next app, react, next.js"
       />
       <link rel="icon" href="/favicon.ico" />
     </Head>
